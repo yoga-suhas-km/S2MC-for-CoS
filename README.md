@@ -2,9 +2,9 @@
 
 Please download the datasets from below URL
 
-**URL for DatasetI:** https://ieee-dataport.org/documents/network-service-traffic
+**URL for Dataset I:** https://ieee-dataport.org/documents/network-service-traffic
 
-**URL for DatasetII:** https://www.unb.ca/cic/datasets/vpn.html
+**URL for Dataset II:** https://www.unb.ca/cic/datasets/vpn.html
 
 Extract the csv from pcap that includes packet length, inter-arrival time, packet direction and timestamps.
 Place the CSVs of DatasetI in a directory named "IEEE_dataport_pre_processed" and CSVs of DatasetII in a
