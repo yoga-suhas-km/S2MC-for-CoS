@@ -10,7 +10,7 @@ Extract the csv from pcap that includes packet length, inter-arrival time, packe
 Place the CSVs of DatasetI in a directory named "IEEE_dataport_pre_processed" and CSVs of DatasetII in a
 directory names "UNB_pre_processed".
 
-dependent packages: sklearn, pandas, keras, numpy, matplot, seaborn, joblib.
+Dependent packages: sklearn, pandas, keras, numpy, matplot, seaborn, joblib.
 
 Please execute rf.py as shown in the below commands
 
