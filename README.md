@@ -1,4 +1,4 @@
-# S2MC-method-for-CoS-network-traffic-classification
+# A Novel Statistical Segmented Approach for Class-of-Service Network Traffic Classification
 
 Please download the datasets from below URL
 
