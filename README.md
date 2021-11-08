@@ -15,13 +15,13 @@ Dependent packages: sklearn, pandas, keras, numpy, matplot, seaborn, joblib.
 Please execute rf.py as shown in the below commands
 
 1) To run S2MC for Dataset I
-* $ python rf.py datasetI
+* $ python rf.py dataset1
 
 2) To run S2MC for Dataset II
-* $ python rf.py datasetII
+* $ python rf.py dataset2
 
 3) To plot histograms for sliced data of Dataset I
-* $ python rf.py plot datasetI
+* $ python rf.py plot dataset1
 
 4)  To plot histograms for sliced data of Dataset II
-* $ python rf.py plot datasetII
+* $ python rf.py plot dataset2
