@@ -133,8 +133,6 @@ def start(__data, __type):
 
 
 def print_notice():
-    #print("Script supports the 3 models and 5 feature sets\r\n")
-    #print("Script supports the computation of chi2 and number of flows per class\r\n")
     print("Master please give me a correct command")
     print(" eg:") 
     print("     python rf.py dataset1")
