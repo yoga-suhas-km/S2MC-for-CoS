@@ -166,7 +166,7 @@ def main(argv):
 
     if argv[0] == "plot" and argv[1] == "dataset1":        
         plot("dataset1")
-    elif argv[0] == "plot" and argv[1] == "dataset1":        
+    elif argv[0] == "plot" and argv[1] == "dataset2":        
         plot("dataset2")        
 
 if __name__ == "__main__":
